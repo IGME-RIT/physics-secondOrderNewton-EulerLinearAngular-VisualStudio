@@ -1,5 +1,0 @@
-﻿  main.cpp
-d:\profiles\njp2424\desktop\physics\advacned topics\physics-secondordernewton-eulerlinearangular-mastervs2019\secondordernewtoneulerlinang\main.cpp(443): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-d:\profiles\njp2424\desktop\physics\advacned topics\physics-secondordernewton-eulerlinearangular-mastervs2019\secondordernewtoneulerlinang\main.cpp(474): warning C4326: return type of 'main' should be 'int' instead of 'void'
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  SecondOrderNewtonEulerLinAng.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\Advacned Topics\physics-secondOrderNewton-EulerLinearAngular-masterVS2019\SecondOrderNewtonEulerLinAng\Debug\SecondOrderNewtonEulerLinAng.exe
